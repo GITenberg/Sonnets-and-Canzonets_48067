@@ -1,4 +1,8 @@
 _repo: Sonnets-and-Canzonets_48067
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48067-h/images/cover-image.jpg
 creator:
   author:
     agent_name: Alcott, Amos Bronson
@@ -13,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/38495
     wikipedia: https://en.wikipedia.org/wiki/Amos_Bronson_Alcott
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48067#Sonnets-and-Canzonets
 gutenberg_issued: '2015-01-24'
 gutenberg_type: Text
 identifiers:
